@@ -8,5 +8,3 @@ say_hey()
 
 
 print(hello1.string)
-
- 
